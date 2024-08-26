@@ -17,3 +17,7 @@
 - [dida-openapi](https://developer.dida365.com/docs#/openapi)
 - [Notion API](https://developers.notion.com/)
 - [Notion API 文档中文版](https://www.notion.so/Notion-API-9c8b2d0c4f5a4f9db6d6c8b7b0a6f5d4)
+
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
